@@ -9,11 +9,7 @@ Devise.setup do |config|
   # Devise will use the `secret_key_base` as its `secret_key`
   # by default. You can change it below and use your own secret key.
   # config.secret_key = '03ff2506fd1d35af562ad071a670d07923fc7e94b6659ba0e745dbeb2e24b330e0217d1eaebc63ff468b9ba0725d676d2f004fd0754acb9ede6a1f1439448a32'
-<<<<<<< HEAD
   config.secret_key = '26c8797a59136fbd440a41fd852a2e1df7bd44e1e09e78599c5ce9615c4a5723f048d0bc5d4ad133f8e112732eb4a73a60eb8107a66e7b242eb479a50c566715'
-=======
-  
->>>>>>> aa64d78230e75f4ef9c52a403f9986b642009acd
   # ==> Controller configuration
   # Configure the parent class to the devise controllers.
   # config.parent_controller = 'DeviseController'
